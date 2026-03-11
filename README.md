@@ -700,7 +700,7 @@ The goal is for *"we ran LANCE before we shipped"* to become standard practice.
 
 **[⭐ Star on GitHub](https://github.com/iosec-in/lance)** — helps the project get discovered by the teams that need it
 
-[lance.iosec.in](https://lance.iosec.in) · [iosec.in](https://iosec.in) · [@callmeshekhu](https://twitter.com/callmeshekhu)
+[lance.iosec.in](https://lance.iosec.in) · [iosec.in](https://iosec.in) · [@sudo_shekhar](https://x.com/sudo_shekhar)
 
 *Precision strikes. Zero false calm.*
 
